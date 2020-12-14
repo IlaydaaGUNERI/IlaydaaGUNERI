@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
-Skills: .NET / C#/ Ms SQL / Oracle / React
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Skills: .NET / C#/ Ms SQL / Oracle / React
 
 - 🔭 I’m currently working on Web Back-End Development 
 - 🌱 I’m currently learning React Native 
