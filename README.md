@@ -11,5 +11,6 @@ Skills: .NET / C#/ Ms SQL / Oracle / React
 - 📫 How to reach me: guneriilayda48@gmail.com 
 - 😄 Pronouns: She/Her 
 
+[![Linkedin: ilaydaguneri](https://img.shields.io/badge/-ilaydaguneri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilaydaguneri/)](https://www.linkedin.com/in/ilaydaguneri/)
+[![GitHub IlaydaaGUNERI](https://img.shields.io/github/followers/IlaydaaGUNERI?label=follow&style=social)](https://github.com/IlaydaaGUNERI)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/IlaydaaGUNERI) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/guneri_ilayda)  
