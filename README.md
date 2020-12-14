@@ -1,7 +1,6 @@
 ### Hello World, I'm Ilayda 👋
 
-![](https://user-images.githubusercontent.com/61278953/102091448-e4539500-3e2f-11eb-8349-e228bb8f0102.gif)
-
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 Skills: .NET / C#/ Ms SQL / Oracle / React
 
